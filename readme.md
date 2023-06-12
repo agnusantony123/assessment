@@ -1,4 +1,4 @@
-# Laravel Crud App
+# Crud App
 
 A simple crud App with Laravel 5.5.
 
