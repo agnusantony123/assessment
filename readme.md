@@ -40,9 +40,6 @@ php artisan serve
 
 Then go to `http://localhost:8000` from your browser and see the app.
 
-## Screenshot
-
-![](https://i.imgur.com/inZHcaZ.jpg?1)
 
 
 
