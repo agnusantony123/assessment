@@ -6,12 +6,12 @@ A simple crud App with Laravel 5.5.
 
 Clone the repository-
 ```
-git clone https://github.com/ToTanbir/laravel-crud.git
+https://github.com/agnusantony123/assessment.git
 ```
 
 Then cd into the folder with this command-
 ```
-cd laravel-crud
+cd assessment
 ```
 
 Then do a composer install
